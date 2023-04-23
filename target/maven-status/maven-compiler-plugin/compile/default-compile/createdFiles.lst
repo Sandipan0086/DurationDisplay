@@ -1,0 +1,9 @@
+org\rabobank\common\impl\DurationBreakdownShortFormat.class
+org\rabobank\common\exception\DurationTransformationException.class
+org\rabobank\common\DisplayDuration.class
+org\rabobank\common\impl\DurationBreakDownFull.class
+org\rabobank\common\factory\DurationFactory.class
+org\rabobank\common\Main.class
+org\rabobank\common\impl\DurationBreakdownMinutes.class
+org\rabobank\common\factory\DurationFactory$1.class
+org\rabobank\common\impl\DurationBreakdownhours.class
